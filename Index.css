@@ -1,0 +1,49 @@
+body,html
+{
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	height: 100%;
+	width: 100%;
+}
+#InfoText
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#ApiDatas
+{
+	margin: 25px;
+}
+img
+{
+	border-radius: 50px;
+}
+.CenterBlock
+{
+	display: grid;
+}
+label
+{
+	font-family: 'Poppins', sans-serif;
+	margin-top: 8px;
+}
+input
+{
+    padding: 8px;
+    min-width: 225px;
+    border-radius: 15px;
+    border: 1px Solid darkcyan;
+    font-family: 'Poppins', sans-serif;
+}
+button
+{
+	padding: 10px;
+    background: darkcyan;
+    color: white;
+    border: navajowhite;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
